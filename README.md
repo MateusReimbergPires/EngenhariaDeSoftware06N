@@ -36,4 +36,9 @@ No cotidiano de um cenário de negócios que utiliza modelos preditivos para an�
 | Início da Tarde | Gestor de Equipe | Decisão de Contratação | O gestor de equipe colabora com o recrutador para escolher o candidato ideal, consciente do impacto na dinâmica da equipe. |
 | Fim do Dia | Gestor de Equipe | Escolha do Funcionario | O Gestor com base na seleção feita pela equipe de recrutamento e do Modelo Preditivo escolhe quem receberá a promoção e assumirá a cadeira vazia |
 
+# Video da Proposta
+https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/8911b535-8106-42ab-ae55-9b4b300b84c2
+
+
+
   

@@ -43,6 +43,25 @@ https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/
 # Arquitetura 4 + 1
 
 ## Cenário de negócio
+### Diagrama de caso de uso
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/098dd861-75b7-4088-8581-a5651db97a39)
 
-!(https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/blob/main/Diagrama%20de%20caso%20de%20uso.drawio)
-  
+## Visão Lógia
+### Diagrama de classes
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/87722c7f-4912-4d59-99e1-2ea14134255b)
+
+## Visão de Processos
+### Diagrama de Sequencia
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/33ba5ad8-737c-4191-af97-b07a54e32103)
+
+
+## Visão de Desenvolvimento
+### Diagrama de Pacotes
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/d19e67e9-c800-4a9f-ada4-5adc808f78e1)
+
+
+##  Visão Física
+### Diagrama de Deployment
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/b7202cc8-fcb8-43f8-b890-577972e64f21)
+
+

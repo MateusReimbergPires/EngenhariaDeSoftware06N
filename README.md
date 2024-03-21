@@ -44,5 +44,5 @@ https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/
 
 ## Cenário de negócio
 
-!()
+!(https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/blob/main/Diagrama%20de%20caso%20de%20uso.drawio)
   

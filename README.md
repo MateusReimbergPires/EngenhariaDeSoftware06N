@@ -40,5 +40,9 @@ No cotidiano de um cenário de negócios que utiliza modelos preditivos para an�
 https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/8911b535-8106-42ab-ae55-9b4b300b84c2
 
 
+# Arquitetura 4 + 1
 
+## Cenário de negócio
+
+!()
   

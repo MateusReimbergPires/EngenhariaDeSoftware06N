@@ -64,4 +64,10 @@ https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/
 ### Diagrama de Deployment
 ![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/b7202cc8-fcb8-43f8-b890-577972e64f21)
 
+# Backlog
 
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/594eb73d-4fbc-499a-b3af-36aaa31d4d15)
+
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/28bea31c-f316-403e-9036-54b9cf6680a2)
+
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/d4c6e07f-aba8-4be2-988b-f7f36377ffca)

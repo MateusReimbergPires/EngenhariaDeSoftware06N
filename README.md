@@ -70,4 +70,24 @@ https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/
 
 ![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/28bea31c-f316-403e-9036-54b9cf6680a2)
 
-![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/d4c6e07f-aba8-4be2-988b-f7f36377ffca)
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/d7454d72-776d-4507-ac0a-f8c3248bf962)
+
+
+# Sprint 2
+
+## MVP
+
+Software para cadastro de vagas por gestores e recomendação de funcionários para preenchimento de vagas.
+
+## Estória
+
+Eu como recrutador desejo visualizar as melhores opções de funcionários para preenchimento de vaga com requisitos específicos.
+
+## Planejamento
+
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/f2a51629-3743-4227-9884-b9674c87a00e)
+
+## Requisitos não funcionais
+
+- Usabilidade: O sistema detecta com inteligencia artificial quais habilidades o gestor deseja para uma vaga, com base na descrição da vaga.
+- Segurança: As senhas são armazenadas como hashes no banco de dados, evitando assim vazamento de senhas.

@@ -97,3 +97,6 @@ Eu como recrutador desejo visualizar as melhores opções de funcionários para 
 
 ![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/b4ca18bc-eec8-4667-913e-73b3b11216b5)
 
+## Link do vídeo
+
+https://youtu.be/v9i1uwu0aqI

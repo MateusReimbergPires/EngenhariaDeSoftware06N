@@ -48,7 +48,8 @@ https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/124939803/
 
 ## Visão Lógia
 ### Diagrama de classes
-![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/e954f056-6015-46d3-94ef-35b763bc7636)
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/33694f19-262a-43cb-ba41-487d6cadfa8a)
+
 
 ## Visão de Processos
 ### Diagrama de Sequencia

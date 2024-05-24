@@ -92,3 +92,8 @@ Eu como recrutador desejo visualizar as melhores opções de funcionários para 
 
 - Usabilidade: O sistema detecta com inteligencia artificial quais habilidades o gestor deseja para uma vaga, com base na descrição da vaga.
 - Segurança: As senhas são armazenadas como hashes no banco de dados, evitando assim vazamento de senhas.
+
+## Arquitetura em 4 camadas
+
+![image](https://github.com/MateusReimbergPires/EngenhariaDeSoftware06N/assets/70251496/b4ca18bc-eec8-4667-913e-73b3b11216b5)
+

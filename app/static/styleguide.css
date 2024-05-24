@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --bs-purple: #742b9c;
+    --bs-purple-fade: #a539df;
+    --bs-gray-100: #f8f9fa;
+    --bs-gray-200: #e9ecef;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: var(--bs-gray-200);
+}
+
+header {
+    width: 100%;
+    background-color: var(--bs-gray-100);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 2.25rem;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: var(--bs-gray-100);
+
+    width: 40%;
+    margin: 1%;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.list {
+    overflow-y: scroll;
+    max-height: 100%;
+    max-width: 100%;
+    word-wrap:break-word;
+}
+
+.list__table {
+    width: 100%;
+}
+
+/* -------------------- Tabela -------------------- */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid gainsboro;
+}
+/* -------------------- Tamanho -------------------- */
+
+.height-auto {
+    height: auto;
+}
+
+.height100 {
+    height: 100%;
+}
+
+.height90 {
+    height: 90%;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.width75 {
+    width: 75%;
+}
+
+.width50 {
+    width: 50%;
+}
+
+.width25 {
+    width: 25%;
+}
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.self-align-start {
+    align-self: flex-start;
+}
+
+.self-flex-start {
+    justify-self: start;
+}
+
+.self-flex-end {
+    justify-self: end;
+}
+
+/* -------------------- Inputs e botoes -------------------- */
+
+.forms {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.form-group {
+    width: 75%;
+    height: auto;
+    display: flex; 
+    flex-direction: column;
+    margin: 5% 5% 0%;
+}
+
+.label {
+    font-size: 1.5rem;
+}
+
+.label-checkbox {
+    font-size: 1rem;
+}
+
+.input-box {
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.btn {
+    color: var(--bs-gray-100);
+    background-color: var(--bs-purple);
+    border: 0;
+    border-radius: 50px;
+    font-size: 1rem;
+    padding: 1rem;
+    margin: 5%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: var(--bs-purple-fade);
+}
+
+.select {
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--bs-gray-100);
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    color: black;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.transparent-btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+{% extends "template.html" %}
+{% block conteudo %}
+<header>
+    <span class="material-symbols-outlined">person</span>
+    <h3>  {{ usuario_logado }}</h3>
+</header>
+    <main>
+        <section class="content height100">
+            <div class="card height90">
+                <h1>{{ vaga.nomeVaga }}</h1>
+
+                <div class="list width100">
+                    <table class="list__table">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                <th>Habilidades</th>
+                                <th>Pontuação</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for recomendacao in recomendacoes%}
+                            <tr>
+                                <td>{{ recomendacao['nome'] }}</td>
+                                <td>{{ recomendacao['habilidades'] }}</td>
+                                <td>{{ recomendacao['pontuacao'] }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+
+{% endblock %}
